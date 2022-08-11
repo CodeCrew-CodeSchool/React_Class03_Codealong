@@ -1,2 +1,2 @@
-# React_Class02_Codealong
-Class 02 Code-along includes state &amp; props learning and react-bootstrap : - )
+# React_Class03_Codealong
+Class 03 code-along includes passing functions as props in react
